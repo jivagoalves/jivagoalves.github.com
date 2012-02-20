@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://jivagoalves.github.com
+title: Jivago Alves :: Blog
+subtitle: Just a blog about stuff.
+author: Jivago Alves
 simple_search: http://google.com/search
-description:
+description: Jivago Alves blog about stuff.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
